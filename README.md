@@ -20,7 +20,6 @@ For official resources head to the [Alephium wiki](https://wiki.alephium.org).
 - [Alph.Pro](https://alph.pro): Portfolio Management & DeFi discovery
 - [AYIN](https://www.ayin.app/): First DEX on Alephium
 - [DEADRARE](https://deadrare.io/): First NFT Marketplace on Alephium
-- [WALPH](https://walph.io): On-chain decentralized Lottery on Alephium
 - [RUBBER](https://rubber.ayin.app/): Rub a message on the blockchain
 - [ALPH.bet](https://alph.bet): On-chain bets
 
